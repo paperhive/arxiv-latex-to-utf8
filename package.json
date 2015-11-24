@@ -1,0 +1,26 @@
+{
+  "name": "arxiv-latex-to-utf8",
+  "version": "1.0.0",
+  "description": "Convert arxiv's subset of LaTeX to UTF8",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paperhive/arxiv-latex-to-utf8.git"
+  },
+  "keywords": [
+    "arxiv",
+    "latex",
+    "unicode",
+    "utf8",
+    "utf-8"
+  ],
+  "author": "André Gaul <andre@gaul.io>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/paperhive/arxiv-latex-to-utf8/issues"
+  },
+  "homepage": "https://github.com/paperhive/arxiv-latex-to-utf8#readme"
+}
